@@ -2,4 +2,4 @@
 Learn Unreal 
 
 
-install git lfs to fork project => [text](https://git-lfs.com/)
+install git lfs to fork project => [git-lfs](https://git-lfs.com/)
