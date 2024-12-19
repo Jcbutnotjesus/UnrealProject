@@ -1,0 +1,18 @@
+# Ignore the project files
+*.xcodeproj
+*.vs2017
+*.vs2019
+*.vscode
+*.sln
+*.uprojectdirs
+*.idea
+
+# Ignore the intermediate build folders
+/Binaries/*
+/Build/*
+/Intermediate/*
+/Saved/*
+
+# Ignore Unreal Engine's temporary files
+*.uasset
+*.umap
